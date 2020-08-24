@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: cb090042bbc5ec448a6f8205ff698ae8
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -6698826820755709324
+    second: Ground baotrn|ArcherAction
+  - first:
+      74: 429938323592255423
+    second: Ground baotrn|BowAction
+  - first:
+      74: 6021135396191464773
+    second: Ground baotrn|BowlAction
+  - first:
+      74: -340605250266578132
+    second: Ground baotrn|Bush and grassAction
+  - first:
+      74: 4379174255114699554
+    second: Ground baotrn|Eye
+  - first:
+      74: -113481778472195778
+    second: Ground baotrn|FirelightAction
+  - first:
+      74: -4826504240699577585
+    second: Ground baotrn|FireRockAction
+  - first:
+      74: 6832882725773842114
+    second: Ground baotrn|FiretreeAction
+  - first:
+      74: -8628753591499928795
+    second: Ground baotrn|GroundAction
+  - first:
+      74: 8072178386314739049
+    second: Ground baotrn|Light for moonAction
+  - first:
+      74: -561131500745771617
+    second: Ground baotrn|MaintreeAction
+  - first:
+      74: 7986056726006223683
+    second: Ground baotrn|MeatAction
+  - first:
+      74: -1098531555222595787
+    second: Ground baotrn|MoonAction
+  - first:
+      74: 7843462335350462690
+    second: Ground baotrn|Mountain.003Action
+  - first:
+      74: -3287567426463080556
+    second: Ground baotrn|Rock2Action
+  - first:
+      74: -8411137184316645778
+    second: Ground baotrn|StumpAction
+  - first:
+      74: -3141359750040919625
+    second: Ground baotrn|Sun.002Action
+  - first:
+      74: -2038638941698663801
+    second: Ground baotrn|Tree.003Action
+  - first:
+      74: 6392186880667967949
+    second: Grass|ArcherAction
+  - first:
+      74: 5093912899898003637
+    second: Grass|BowAction
+  - first:
+      74: -4324528832845869229
+    second: Grass|BowlAction
+  - first:
+      74: -740106106182656798
+    second: Grass|Bush and grassAction
+  - first:
+      74: -6078118833419819169
+    second: Grass|Eye
+  - first:
+      74: 7154099169910104175
+    second: Grass|FirelightAction
+  - first:
+      74: -9103268454965635949
+    second: Grass|FireRockAction
+  - first:
+      74: -8217697115206740936
+    second: Grass|FiretreeAction
+  - first:
+      74: 2269793997393364724
+    second: Grass|GroundAction
+  - first:
+      74: 2625818259239448090
+    second: Grass|Light for moonAction
+  - first:
+      74: -2347655308101151147
+    second: Grass|MaintreeAction
+  - first:
+      74: -5526499552149371621
+    second: Grass|MeatAction
+  - first:
+      74: 3694947625789267844
+    second: Grass|MoonAction
+  - first:
+      74: 895820496495446859
+    second: Grass|Mountain.003Action
+  - first:
+      74: -3004965960283997221
+    second: Grass|Rock2Action
+  - first:
+      74: 592471983456695403
+    second: Grass|StumpAction
+  - first:
+      74: 3937960946937010575
+    second: Grass|Sun.002Action
+  - first:
+      74: 2641571566908664070
+    second: Grass|Tree.003Action
+  - first:
+      74: 7096657758907755618
+    second: Ground baotrn.001|ArcherAction
+  - first:
+      74: -6525221522407277470
+    second: Ground baotrn.001|BowAction
+  - first:
+      74: -3889290008321790498
+    second: Ground baotrn.001|BowlAction
+  - first:
+      74: -1403522785713534673
+    second: Ground baotrn.001|Bush and grassAction
+  - first:
+      74: 3723796207335985601
+    second: Ground baotrn.001|Eye
+  - first:
+      74: 8557183691354732823
+    second: Ground baotrn.001|FirelightAction
+  - first:
+      74: -7102198154342044131
+    second: Ground baotrn.001|FireRockAction
+  - first:
+      74: 3268821603949550347
+    second: Ground baotrn.001|FiretreeAction
+  - first:
+      74: -6249951089840448235
+    second: Ground baotrn.001|GroundAction
+  - first:
+      74: 636636355830082769
+    second: Ground baotrn.001|Light for moonAction
+  - first:
+      74: -3793321039887973892
+    second: Ground baotrn.001|MaintreeAction
+  - first:
+      74: 7220078606666631583
+    second: Ground baotrn.001|MeatAction
+  - first:
+      74: -2731773092224753683
+    second: Ground baotrn.001|MoonAction
+  - first:
+      74: -9121041035750307937
+    second: Ground baotrn.001|Mountain.003Action
+  - first:
+      74: -2961009601663091485
+    second: Ground baotrn.001|Rock2Action
+  - first:
+      74: 856594722169028883
+    second: Ground baotrn.001|StumpAction
+  - first:
+      74: -3744684042125448609
+    second: Ground baotrn.001|Sun.002Action
+  - first:
+      74: 2930586686772398726
+    second: Ground baotrn.001|Tree.003Action
+  - first:
+      74: -9104746483872090090
+    second: Ground baotrn.002|ArcherAction
+  - first:
+      74: -3776773401548741318
+    second: Ground baotrn.002|BowAction
+  - first:
+      74: -3150636617796880877
+    second: Ground baotrn.002|BowlAction
+  - first:
+      74: -7110317602561128561
+    second: Ground baotrn.002|Bush and grassAction
+  - first:
+      74: -6662247126828946699
+    second: Ground baotrn.002|Eye
+  - first:
+      74: -3204040214328486099
+    second: Ground baotrn.002|FirelightAction
+  - first:
+      74: -701495768625432187
+    second: Ground baotrn.002|FireRockAction
+  - first:
+      74: 8208921367828968880
+    second: Ground baotrn.002|FiretreeAction
+  - first:
+      74: -5878355614990356368
+    second: Ground baotrn.002|GroundAction
+  - first:
+      74: 6626833376036538821
+    second: Ground baotrn.002|Light for moonAction
+  - first:
+      74: -5467946435571404352
+    second: Ground baotrn.002|MaintreeAction
+  - first:
+      74: -1204696570175495090
+    second: Ground baotrn.002|MeatAction
+  - first:
+      74: 7004080825448864431
+    second: Ground baotrn.002|MoonAction
+  - first:
+      74: -403278670314241796
+    second: Ground baotrn.002|Mountain.003Action
+  - first:
+      74: -5888763693492644892
+    second: Ground baotrn.002|Rock2Action
+  - first:
+      74: 2354195019885587395
+    second: Ground baotrn.002|StumpAction
+  - first:
+      74: 3195814269660584204
+    second: Ground baotrn.002|Sun.002Action
+  - first:
+      74: 3055191542791610845
+    second: Ground baotrn.002|Tree.003Action
+  - first:
+      74: -4359076856510827804
+    second: Ground baotrn.003|ArcherAction
+  - first:
+      74: 7977076569563476318
+    second: Ground baotrn.003|BowAction
+  - first:
+      74: -3208218242748342664
+    second: Ground baotrn.003|BowlAction
+  - first:
+      74: -2569253628278320145
+    second: Ground baotrn.003|Bush and grassAction
+  - first:
+      74: -4209404449599669099
+    second: Ground baotrn.003|Eye
+  - first:
+      74: -6026821443340766897
+    second: Ground baotrn.003|FirelightAction
+  - first:
+      74: 3504493447110189113
+    second: Ground baotrn.003|FireRockAction
+  - first:
+      74: -736129350181880742
+    second: Ground baotrn.003|FiretreeAction
+  - first:
+      74: 4874482576348060509
+    second: Ground baotrn.003|GroundAction
+  - first:
+      74: 8812517512808920405
+    second: Ground baotrn.003|Light for moonAction
+  - first:
+      74: 5953137923239657685
+    second: Ground baotrn.003|MaintreeAction
+  - first:
+      74: 1412721105386940365
+    second: Ground baotrn.003|MeatAction
+  - first:
+      74: -1174620135298353969
+    second: Ground baotrn.003|MoonAction
+  - first:
+      74: -6540680655330954049
+    second: Ground baotrn.003|Mountain.003Action
+  - first:
+      74: -82912189504516449
+    second: Ground baotrn.003|Rock2Action
+  - first:
+      74: -8403646555992266256
+    second: Ground baotrn.003|StumpAction
+  - first:
+      74: 2711746139267555343
+    second: Ground baotrn.003|Sun.002Action
+  - first:
+      74: -704056637468361165
+    second: Ground baotrn.003|Tree.003Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

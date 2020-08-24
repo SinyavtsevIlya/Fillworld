@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 603ac52d29914c447a0f305ab165cead
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 4565707616100136641
+    second: Ground swancp|ArcherAction
+  - first:
+      74: -4136069521527485484
+    second: Ground swancp|BowAction
+  - first:
+      74: -3225248673625166576
+    second: Ground swancp|BowlAction
+  - first:
+      74: -4213972372429502685
+    second: Ground swancp|Bush and grassAction
+  - first:
+      74: 5680026639247294406
+    second: Ground swancp|Bush and grassAction.001
+  - first:
+      74: 2525128717053818451
+    second: Ground swancp|Eye
+  - first:
+      74: 8020124989126262207
+    second: Ground swancp|FirelightAction
+  - first:
+      74: -7715230199236661976
+    second: Ground swancp|FireRockAction
+  - first:
+      74: 3855573967491785672
+    second: Ground swancp|FiretreeAction
+  - first:
+      74: -3472187544858252238
+    second: Ground swancp|GroundAction
+  - first:
+      74: 2419937780032035135
+    second: Ground swancp|Light for moonAction
+  - first:
+      74: 7606866073977010098
+    second: Ground swancp|MaintreeAction
+  - first:
+      74: -5895512137302264667
+    second: Ground swancp|MeatAction
+  - first:
+      74: -3456370408416816148
+    second: Ground swancp|MoonAction
+  - first:
+      74: 4323537320014539638
+    second: Ground swancp|Mountain.003Action
+  - first:
+      74: 7745649624045518217
+    second: Ground swancp|Mountain.003Action.001
+  - first:
+      74: -3457889480797683309
+    second: Ground swancp|Rock2Action
+  - first:
+      74: -3408833688294572578
+    second: Ground swancp|StumpAction
+  - first:
+      74: 5169967825224300508
+    second: Ground swancp|StumpAction.001
+  - first:
+      74: -5321450541896206695
+    second: Ground swancp|Sun.002Action
+  - first:
+      74: 8415884377402573443
+    second: Ground swancp|Tree.003Action
+  - first:
+      74: 8042475313795662529
+    second: Bush and grass.001|ArcherAction
+  - first:
+      74: 6845697920540406599
+    second: Bush and grass.001|BowAction
+  - first:
+      74: 2415358245547083497
+    second: Bush and grass.001|BowlAction
+  - first:
+      74: 3426982746806023743
+    second: Bush and grass.001|Bush and grassAction
+  - first:
+      74: 8528864877067160905
+    second: Bush and grass.001|Bush and grassAction.001
+  - first:
+      74: -8418760548423382493
+    second: Bush and grass.001|Eye
+  - first:
+      74: 2150536017966528474
+    second: Bush and grass.001|FirelightAction
+  - first:
+      74: -3914238328900496979
+    second: Bush and grass.001|FireRockAction
+  - first:
+      74: 4312585529855984877
+    second: Bush and grass.001|FiretreeAction
+  - first:
+      74: 631226484484684194
+    second: Bush and grass.001|GroundAction
+  - first:
+      74: 3107840680071601768
+    second: Bush and grass.001|Light for moonAction
+  - first:
+      74: -1763866598716683080
+    second: Bush and grass.001|MaintreeAction
+  - first:
+      74: -5314414477572943983
+    second: Bush and grass.001|MeatAction
+  - first:
+      74: 2977287876294355685
+    second: Bush and grass.001|MoonAction
+  - first:
+      74: -2139910021525011645
+    second: Bush and grass.001|Mountain.003Action
+  - first:
+      74: 3212995013784362849
+    second: Bush and grass.001|Mountain.003Action.001
+  - first:
+      74: -4418367886390242048
+    second: Bush and grass.001|Rock2Action
+  - first:
+      74: 5496378162784130314
+    second: Bush and grass.001|StumpAction
+  - first:
+      74: -3120894419929979830
+    second: Bush and grass.001|StumpAction.001
+  - first:
+      74: 4685950475522980044
+    second: Bush and grass.001|Sun.002Action
+  - first:
+      74: -5275625886982671781
+    second: Bush and grass.001|Tree.003Action
+  - first:
+      74: -6681690355314134190
+    second: Stump.001|ArcherAction
+  - first:
+      74: 8738456711502581882
+    second: Stump.001|BowAction
+  - first:
+      74: -1977056837823939368
+    second: Stump.001|BowlAction
+  - first:
+      74: 7055159102183936794
+    second: Stump.001|Bush and grassAction
+  - first:
+      74: -3298834662477083023
+    second: Stump.001|Bush and grassAction.001
+  - first:
+      74: 6669427421996518535
+    second: Stump.001|Eye
+  - first:
+      74: -6961034021470428150
+    second: Stump.001|FirelightAction
+  - first:
+      74: 4317855801912669810
+    second: Stump.001|FireRockAction
+  - first:
+      74: -5480653997943044189
+    second: Stump.001|FiretreeAction
+  - first:
+      74: -7029544208436328455
+    second: Stump.001|GroundAction
+  - first:
+      74: -400254467740145183
+    second: Stump.001|Light for moonAction
+  - first:
+      74: -514880668396548779
+    second: Stump.001|MaintreeAction
+  - first:
+      74: -1644734639847742233
+    second: Stump.001|MeatAction
+  - first:
+      74: -7832034453415484384
+    second: Stump.001|MoonAction
+  - first:
+      74: 9169162243352340377
+    second: Stump.001|Mountain.003Action
+  - first:
+      74: -6607887254039846248
+    second: Stump.001|Mountain.003Action.001
+  - first:
+      74: 2975647484587719681
+    second: Stump.001|Rock2Action
+  - first:
+      74: 8395952518176736615
+    second: Stump.001|StumpAction
+  - first:
+      74: -8686122040009766288
+    second: Stump.001|StumpAction.001
+  - first:
+      74: 9106347821028837523
+    second: Stump.001|Sun.002Action
+  - first:
+      74: 370136116573401176
+    second: Stump.001|Tree.003Action
+  - first:
+      74: -8595184465952255299
+    second: Ground swancp.001|ArcherAction
+  - first:
+      74: 3553048424613846825
+    second: Ground swancp.001|BowAction
+  - first:
+      74: -7708080188895757471
+    second: Ground swancp.001|BowlAction
+  - first:
+      74: 6184764698746788897
+    second: Ground swancp.001|Bush and grassAction
+  - first:
+      74: -3504340721555517009
+    second: Ground swancp.001|Bush and grassAction.001
+  - first:
+      74: -269838147160090230
+    second: Ground swancp.001|Eye
+  - first:
+      74: -864806201269135355
+    second: Ground swancp.001|FirelightAction
+  - first:
+      74: 6713213968857225617
+    second: Ground swancp.001|FireRockAction
+  - first:
+      74: 4142574781227547427
+    second: Ground swancp.001|FiretreeAction
+  - first:
+      74: 2927932906914605290
+    second: Ground swancp.001|GroundAction
+  - first:
+      74: 5210828761883837333
+    second: Ground swancp.001|Light for moonAction
+  - first:
+      74: 1129108394809523958
+    second: Ground swancp.001|MaintreeAction
+  - first:
+      74: 1394525031071176084
+    second: Ground swancp.001|MeatAction
+  - first:
+      74: 6342927304206773644
+    second: Ground swancp.001|MoonAction
+  - first:
+      74: 887798087328034955
+    second: Ground swancp.001|Mountain.003Action
+  - first:
+      74: -7318232217211089573
+    second: Ground swancp.001|Mountain.003Action.001
+  - first:
+      74: 5741757051474722078
+    second: Ground swancp.001|Rock2Action
+  - first:
+      74: 6274607930440902435
+    second: Ground swancp.001|StumpAction
+  - first:
+      74: 8321790940197150513
+    second: Ground swancp.001|StumpAction.001
+  - first:
+      74: 6243237534866136585
+    second: Ground swancp.001|Sun.002Action
+  - first:
+      74: 9167610160268458217
+    second: Ground swancp.001|Tree.003Action
+  - first:
+      74: 6095457911550449599
+    second: Ground swancp.002|ArcherAction
+  - first:
+      74: 6159178176184460584
+    second: Ground swancp.002|BowAction
+  - first:
+      74: 2057387632425330439
+    second: Ground swancp.002|BowlAction
+  - first:
+      74: -7836642728642092176
+    second: Ground swancp.002|Bush and grassAction
+  - first:
+      74: 5263525150598023167
+    second: Ground swancp.002|Bush and grassAction.001
+  - first:
+      74: 7626515856746752779
+    second: Ground swancp.002|Eye
+  - first:
+      74: -9125186828275377990
+    second: Ground swancp.002|FirelightAction
+  - first:
+      74: 4440858598738515179
+    second: Ground swancp.002|FireRockAction
+  - first:
+      74: 3332022779083319695
+    second: Ground swancp.002|FiretreeAction
+  - first:
+      74: 150943542103129906
+    second: Ground swancp.002|GroundAction
+  - first:
+      74: 4484250233681703419
+    second: Ground swancp.002|Light for moonAction
+  - first:
+      74: 1697816564927438708
+    second: Ground swancp.002|MaintreeAction
+  - first:
+      74: 5306113358323099959
+    second: Ground swancp.002|MeatAction
+  - first:
+      74: -4997438749612498519
+    second: Ground swancp.002|MoonAction
+  - first:
+      74: -4352956722338584295
+    second: Ground swancp.002|Mountain.003Action
+  - first:
+      74: -480721547522431291
+    second: Ground swancp.002|Mountain.003Action.001
+  - first:
+      74: 6698094205032533197
+    second: Ground swancp.002|Rock2Action
+  - first:
+      74: -7501199797205101024
+    second: Ground swancp.002|StumpAction
+  - first:
+      74: -1945003117103914471
+    second: Ground swancp.002|StumpAction.001
+  - first:
+      74: -1085150922797808753
+    second: Ground swancp.002|Sun.002Action
+  - first:
+      74: 760694978917366260
+    second: Ground swancp.002|Tree.003Action
+  - first:
+      74: 9083423756233598817
+    second: Ground swancp.003|ArcherAction
+  - first:
+      74: 548219908070109449
+    second: Ground swancp.003|BowAction
+  - first:
+      74: -1030513392898891414
+    second: Ground swancp.003|BowlAction
+  - first:
+      74: 8743095706446968779
+    second: Ground swancp.003|Bush and grassAction
+  - first:
+      74: 3815012550469147288
+    second: Ground swancp.003|Bush and grassAction.001
+  - first:
+      74: 4172569073041853443
+    second: Ground swancp.003|Eye
+  - first:
+      74: -6824083531952617775
+    second: Ground swancp.003|FirelightAction
+  - first:
+      74: 2024414713581239343
+    second: Ground swancp.003|FireRockAction
+  - first:
+      74: 210216887121112371
+    second: Ground swancp.003|FiretreeAction
+  - first:
+      74: 6011477848128435773
+    second: Ground swancp.003|GroundAction
+  - first:
+      74: -6361000280201564037
+    second: Ground swancp.003|Light for moonAction
+  - first:
+      74: 1026851729496697322
+    second: Ground swancp.003|MaintreeAction
+  - first:
+      74: -1869316524122527879
+    second: Ground swancp.003|MeatAction
+  - first:
+      74: 3650853163838195124
+    second: Ground swancp.003|MoonAction
+  - first:
+      74: 2565892739404931204
+    second: Ground swancp.003|Mountain.003Action
+  - first:
+      74: 2683039591737227614
+    second: Ground swancp.003|Mountain.003Action.001
+  - first:
+      74: -7557927506787325552
+    second: Ground swancp.003|Rock2Action
+  - first:
+      74: 2197603577539490073
+    second: Ground swancp.003|StumpAction
+  - first:
+      74: -8041503611546870218
+    second: Ground swancp.003|StumpAction.001
+  - first:
+      74: -6361900739443138558
+    second: Ground swancp.003|Sun.002Action
+  - first:
+      74: 7603800887528253969
+    second: Ground swancp.003|Tree.003Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

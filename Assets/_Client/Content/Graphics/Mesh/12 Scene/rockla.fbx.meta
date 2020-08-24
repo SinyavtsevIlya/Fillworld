@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 0277d88d570fff644a8bd97cff112053
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -4034617045694397184
+    second: Bush and grass.002|ArcherAction
+  - first:
+      74: -524107257908570994
+    second: Bush and grass.002|BowAction
+  - first:
+      74: 4395200945600905171
+    second: Bush and grass.002|BowlAction
+  - first:
+      74: 394896956319686842
+    second: Bush and grass.002|Bush and grassAction
+  - first:
+      74: -3589773636542365398
+    second: Bush and grass.002|Eye
+  - first:
+      74: 2340820482224277316
+    second: Bush and grass.002|FirelightAction
+  - first:
+      74: -2473836847160482627
+    second: Bush and grass.002|FireRockAction
+  - first:
+      74: 3103139185899836814
+    second: Bush and grass.002|GroundAction
+  - first:
+      74: -5555558838281195331
+    second: Bush and grass.002|Light for moonAction
+  - first:
+      74: -3708898324858148556
+    second: Bush and grass.002|MaintreeAction
+  - first:
+      74: 5995919258126260625
+    second: Bush and grass.002|MeatAction
+  - first:
+      74: 2438259603679676120
+    second: Bush and grass.002|MoonAction
+  - first:
+      74: 7777163089640238240
+    second: Bush and grass.002|Mountain.003Action
+  - first:
+      74: -5267369001116543401
+    second: Bush and grass.002|Rock2Action
+  - first:
+      74: 3517775161241320275
+    second: Bush and grass.002|StumpAction
+  - first:
+      74: -6747905710550371335
+    second: Bush and grass.002|Sun.002Action
+  - first:
+      74: 4283086537498549320
+    second: Bush and grass.002|Tree.003Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
